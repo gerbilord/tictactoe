@@ -1,0 +1,14 @@
+TO COMPILE:
+
+go to the base folder and run 'javac ./std/*.java'
+
+TO RUN PROGRAM:
+go to base folder and run 'java std.Main'
+
+
+
+TO UPLOAD CODE ONLINE TO GIT:
+
+'git add -A'
+'git commit -m "COMMENT OF WHAT YOU DID"'
+'git push'
