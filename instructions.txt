@@ -12,3 +12,9 @@ UPLOAD AFTER CODING:
 'git add -A'
 'git commit -m "COMMENT OF WHAT YOU DID"'
 'git push origin master'
+
+
+
+TO COMPILE AND RUN WITH GUI:
+javac -cp ".;C:\Program Files\processing-3.5.4\core\library\core.jar" ./std/*.java
+java -cp ".;C:\Program Files\processing-3.5.4\core\library\core.jar" std.Main
