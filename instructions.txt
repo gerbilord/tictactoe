@@ -1,14 +1,14 @@
 TO COMPILE:
-
 go to the base folder and run 'javac ./std/*.java'
 
 TO RUN PROGRAM:
 go to base folder and run 'java std.Main'
 
 
+BEFORE STARTING TO CODE EACH TIME:
+'git pull'
 
-TO UPLOAD CODE ONLINE TO GIT:
-
+UPLOAD AFTER CODING:
 'git add -A'
 'git commit -m "COMMENT OF WHAT YOU DID"'
-'git push'
+'git push origin master'
